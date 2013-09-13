@@ -1,0 +1,31 @@
+.content{
+	float:left;
+	background-color:#FF99CC;
+	font-family:verdana;
+	margin: 10 10 10 10;
+	width:75%; height: 100%;
+}
+
+.sidebar{
+	padding:10 12;
+	text-align:left;
+	float:right;
+    background-color:#D1FF75;
+    border-style: solid;
+    width:20%; height:700;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+.footer{
+	text-align: center;
+	display:block;
+	clear: both;
+	background-color:#E6D8A0;
+	height: 200;
+}   
+
+.container{
+	background-color:#85D6FF;
+	
+}
